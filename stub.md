@@ -13,5 +13,17 @@ temperature: 0
 
 ```stub
 Append foo bar to the readme file in the repo using echo command
+```<details open id=a4527b035174bd2b4e393f2ed2f3bcd7>
+<summary></summary>
+
+You can append "foo bar" to the readme file in your repository using the `echo` command in the terminal. Here's how you can do it:
+
+```bash
+echo "foo bar" >> README.md
 ```
+
+This command will append the string "foo bar" to the end of the `README.md` file. If the file does not exist, it will be created. 
+
+Please replace `README.md` with the actual path and name of your readme file if it's different.
+</details>
 
