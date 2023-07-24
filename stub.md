@@ -17,9 +17,13 @@ temperature: 0
 
 
 
+
+
 ```stub
-Append abracadabra to the readme file in the current repository using echo command
+Append 0123456 to the readme file in the current repository using echo command
 ```
+
+
 
 
 
