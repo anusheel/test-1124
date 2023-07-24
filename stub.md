@@ -9,7 +9,17 @@ temperature: 0
 ### Create your prompts below and Stub will generate the code and documentation
 
 
-```stub
-Append the strings hello world to the readme file in the repo using the echo command
+<details open id=57914d955e4859c1f94997180381e08a>
+<summary></summary>
+
+You can append the strings "hello world" to the readme file in your repository using the `echo` command in the terminal. Here's how you can do it:
+
+```bash
+echo "hello world" >> README.md
 ```
+
+This command will append the string "hello world" to the end of the `README.md` file. If the file does not exist, it will be created. 
+
+Please replace `README.md` with the actual path to your readme file if it's located in another directory.
+</details>
 
