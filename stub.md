@@ -17,39 +17,15 @@ temperature: 0
 Append 12345 to the readme file in the repo using echo command
 ```
 
-
-
-<details open id=a4527b035174bd2b4e393f2ed2f3bcd7>
+<details open id=784b6262a8861141a978479d1b830286>
 <summary></summary>
 
-You can append "foo bar" to the readme file in your repository using the `echo` command in the terminal. Here's how you can do it:
+You can append text to a file in a Unix-based system using the `echo` command and the `>>` operator. Here's how you can append the number `12345` to a file named `README.md`:
 
 ```bash
-echo "foo bar" >> README.md
+echo "12345" >> README.md
 ```
 
-This command will append the string "foo bar" to the end of the `README.md` file. If the file does not exist, it will be created. 
-
-Please replace `README.md` with the actual path and name of your readme file if it's different.
-</details>
-
-
-
-```stub
-append the string hi to the readme file in the repo using echo command
-```
-
-<details open id=7192c1c80a20b66119e1e1bfdf1a91d9>
-<summary></summary>
-
-You can append a string to a file using the `echo` command in the terminal. Here's how you can append the string "hi" to the `README.md` file in your repository:
-
-```bash
-echo "hi" >> README.md
-```
-
-This command will append the string "hi" to the end of the `README.md` file. If the file does not exist, it will be created. 
-
-Please note that you need to have write permissions to the file and the directory it's in to be able to append text to it.
+This command will append `12345` to the end of the `README.md` file. If the file does not exist, it will be created.
 </details>
 
