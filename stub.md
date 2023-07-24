@@ -7,3 +7,9 @@ temperature: 0
 
 
 ### Create your prompts below and Stub will generate the code and documentation
+
+
+```stub
+Append the strings hello world to the readme file in the repo using the echo command
+```
+
