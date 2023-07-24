@@ -21,16 +21,42 @@ temperature: 0
 Append abracadabra to the readme file in the current repository using echo command
 ```
 
-<details open id="1db443fa846559f6a04a789c93086327">
+
+
+
+
+
+
+<details open id="a4527b035174bd2b4e393f2ed2f3bcd7">
 <summary></summary>
 
-You can append "abracadabra" to the readme file in the current repository using the `echo` command in the terminal. Here's how you can do it:
+You can append "foo bar" to the readme file in your repository using the `echo` command in the terminal. Here's how you can do it:
 
 ```bash
-echo "abracadabra" >> README.md
+echo "foo bar" >> README.md
 ```
 
-This command will append the string "abracadabra" to the end of the README.md file. If the file does not exist, it will be created. 
+This command will append the string "foo bar" to the end of the `README.md` file. If the file does not exist, it will be created. 
+
+Please replace `README.md` with the actual path and name of your readme file if it's different.
+</details>
+
+
+
+```stub
+append the string hi to the readme file in the repo using echo command
+```
+
+<details open id="0d34beda82c4c64ac65b33b3b5b12a4d">
+<summary></summary>
+
+You can append the string "hi" to the readme file in the current repository using the `echo` command in the terminal. Here's how you can do it:
+
+```bash
+echo "hi" >> README.md
+```
+
+This command will append the string "hi" to the end of the README.md file. If the file does not exist, it will be created. 
 
 Please replace `README.md` with the actual name of your readme file if it's different.
 </details>
