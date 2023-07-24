@@ -29,3 +29,9 @@ This command will append the string "foo bar" to the end of the `README.md` file
 Please replace `README.md` with the actual path and name of your readme file if it's different.
 </details>
 
+
+
+```stub
+append the string hi to the readme file in the repo using echo command
+```
+
