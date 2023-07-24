@@ -9,3 +9,9 @@ temperature: 0
 ### Create your prompts below and Stub will generate the code and documentation
 
 
+
+
+```stub
+Append foo bar to the readme file in the repo using echo command
+```
+
