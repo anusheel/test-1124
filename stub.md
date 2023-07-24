@@ -15,9 +15,13 @@ temperature: 0
 
 
 
+
+
 ```stub
-Append abcdefg to the readme file in the repo using echo command
+Append abracadabra to the readme file in the current repository using echo command
 ```
+
+
 
 
 
@@ -43,15 +47,15 @@ Please replace `README.md` with the actual path and name of your readme file if 
 append the string hi to the readme file in the repo using echo command
 ```
 
-<details open id="9a64f0c8acc60e809c98f780ba827630">
+<details open id=690ca74ba747c9daac86403b2dd6666d>
 <summary></summary>
 
-You can append the string "hi" to the `readme` file in your `repo` directory using the `echo` command and the `>>` operator. Here's how you can do it:
+You can append the string "hi" to the `README.md` file in the same way as the previous example. Here's the command:
 
 ```bash
-echo "hi" >> repo/readme
+echo "hi" >> README.md
 ```
 
-This command will append "hi" to the end of the `readme` file without overwriting its existing content. If the `readme` file does not exist, this command will create it.
+This command will append the string "hi" to the end of the `README.md` file. If the file does not exist, it will be created.
 </details>
 
