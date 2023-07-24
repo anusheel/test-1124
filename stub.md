@@ -13,7 +13,9 @@ temperature: 0
 
 ```stub
 Append foo bar to the readme file in the repo using echo command
-```<details open id=a4527b035174bd2b4e393f2ed2f3bcd7>
+```
+
+<details open id=a4527b035174bd2b4e393f2ed2f3bcd7>
 <summary></summary>
 
 You can append "foo bar" to the readme file in your repository using the `echo` command in the terminal. Here's how you can do it:
